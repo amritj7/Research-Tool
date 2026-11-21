@@ -1,0 +1,55 @@
+{
+  "2209.05284v1": {
+    "title": "Solving the Job Shop Scheduling Problem with Ant Colony Optimization",
+    "authors": [
+      "Alysson Ribeiro da Silva"
+    ],
+    "summary": "The Job Shop Schedule Problem (JSSP) refers to the ability of an agent to allocate tasks that should be executed in a specified time in a machine from a cluster. The task allocation can be achieved from several methods, however, this report it is explored the ability of the Ant Colony Optimization to generate feasible solutions for several JSSP instances. This proposal models the JSSP as a complete graph since disjunct models can prevent the ACO from exploring all the search space. Several instances of the JSSP were used to evaluate the proposal. Results suggest that the algorithm can reach optimum solutions for easy and harder instances with a selection of parameters.",
+    "pdf_url": "https://arxiv.org/pdf/2209.05284v1",
+    "published": "2022-09-12"
+  },
+  "math/9501233v1": {
+    "title": "Further travels with my ant",
+    "authors": [
+      "David Gale",
+      "James Propp",
+      "Scott Sutherland",
+      "Serge Troubetzkoy"
+    ],
+    "summary": "  We discuss some properties of a class of cellular automata sometimes called a \"generalized ant\". This system is perhaps most easily understood by thinking of an ant which moves about a lattice in the plane. At each vertex (or \"cell\"), the ant turns right or left, depending on the the state of the cell, and then changes the state of the cell according to certain prescribed rule strings. (This system has been the subject of several Mathematical Entertainments columns in the Mathematical Intelligencer; this article will be a future such column). At various times, the distributions of the states of the cells for certain ants is bilaterally symmetric; we categorize a class of ants for which this is the case and give a proof using Truchet tiles.",
+    "pdf_url": "https://arxiv.org/pdf/math/9501233v1",
+    "published": "1995-01-19"
+  },
+  "1007.0413v1": {
+    "title": "An Ant Based Framework for Preventing DDoS Attack in Wireless Sensor Networks",
+    "authors": [
+      "Dimple Juneja",
+      "Neha Arora"
+    ],
+    "summary": "Security and Privacy are two important parameters that need to be considered when dealing with wireless sensor networks as WSN operate in an unattended environment and carry sensitive information critical to the application. However, applying security techniques that consume minimum resources is still a challenge and this paper makes an attempt to address the same. One of the major attacks in sensor network is denial of service attack that not only diminishes the network capacity but also affects the reliability of information being transmitted. This work is an extension of our previous work which could successfully detect DDoS using ants. However, no emphasis was made towards the prevention mechanism. In this paper an ant-based framework that exploits the significance of stateless and stateful signatures and hence preserving the legtimate packets only, thereby discarding the contaminated packets has been proposed.",
+    "pdf_url": "https://arxiv.org/pdf/1007.0413v1",
+    "published": "2010-07-01"
+  },
+  "cs/0412086v1": {
+    "title": "Artificial Ant Colonies in Digital Image Habitats - A Mass Behaviour Effect Study on Pattern Recognition",
+    "authors": [
+      "Vitorino Ramos",
+      "Filipe Almeida"
+    ],
+    "summary": "  Some recent studies have pointed that, the self-organization of neurons into brain-like structures, and the self-organization of ants into a swarm are similar in many respects. If possible to implement, these features could lead to important developments in pattern recognition systems, where perceptive capabilities can emerge and evolve from the interaction of many simple local rules. The principle of the method is inspired by the work of Chialvo and Millonas who developed the first numerical simulation in which swarm cognitive map formation could be explained. From this point, an extended model is presented in order to deal with digital image habitats, in which artificial ants could be able to react to the environment and perceive it. Evolution of pheromone fields point that artificial ant colonies could react and adapt appropriately to any type of digital habitat. KEYWORDS: Swarm Intelligence, Self-Organization, Stigmergy, Artificial Ant Systems, Pattern Recognition and Perception, Image Segmentation, Gestalt Perception Theory, Distributed Computation.",
+    "pdf_url": "https://arxiv.org/pdf/cs/0412086v1",
+    "published": "2004-12-17"
+  },
+  "0810.4583v1": {
+    "title": "Analytical and Numerical Investigation of Ant Behavior Under Crowded Conditions",
+    "authors": [
+      "Karsten Peters",
+      "Anders Johansson",
+      "Audrey Dussutour",
+      "Dirk Helbing"
+    ],
+    "summary": "  Swarm intelligence is widely recognized as a powerful paradigm of self-organized optimization, with numerous examples of successful applications in distributed artificial intelligence. However, the role of physical interactions in the organization of traffic flows in ants under crowded conditions has only been studied very recently. The related results suggest new ways of congestion control and simple algorithms for optimal resource usage based on local interactions and, therefore, decentralized control concepts. Here, we present a mathematical analysis of such a concept for an experiment with two alternative ways with limited capacities between a food source and the nest of an ant colony. Moreover, we carry out microscopic computer simulations for generalized setups, in which ants have more alternatives or the alternative ways are of different lengths. In this way and by variation of interaction parameters, we can get a better idea, how powerful congestion control based on local repulsive interactions may be. Finally, we will discuss potential applications of this design principle to routing in traffic or data networks and machine usage in supply systems.",
+    "pdf_url": "https://arxiv.org/pdf/0810.4583v1",
+    "published": "2008-10-25"
+  }
+}

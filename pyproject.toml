@@ -1,0 +1,22 @@
+[project]
+name = "chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Amritansh", email = "dixitamritansh@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic",
+    "arxiv>=4.1.0",
+    "mcp>=1.2,<2",
+    "python-dotenv",
+]
+
+[project.scripts]
+chatbot = "chatbot:main"
+
+[build-system]
+requires = ["uv_build>=0.12.9,<0.13.0"]
+build-backend = "uv_build"

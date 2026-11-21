@@ -1,0 +1,48 @@
+{
+  "1904.12864v3": {
+    "title": "Anthropic Bound on Dark Radiation and its Implications for Reheating",
+    "authors": [
+      "Fuminobu Takahashi",
+      "Masaki Yamada"
+    ],
+    "summary": "We derive an anthropic bound on the extra neutrino species, $\u0394N_{\\rm eff}$, based on the observation that a positive $\u0394N_{\\rm eff}$ suppresses the growth of matter fluctuations due to the prolonged radiation dominated era, which reduces the fraction of matter that collapses into galaxies, hence, the number of observers. We vary $\u0394N_{\\rm eff}$ and the positive cosmological constant while fixing the other cosmological parameters. We then show that the probability of finding ourselves in a universe satisfying the current bound is of order a few percents for a flat prior distribution. If $\u0394N_{\\rm eff}$ is found to be close to the current upper bound or the value suggested by the $H_0$ tension, the anthropic explanation is not very unlikely. On the other hand, if the upper bound on $\u0394N_{\\rm eff}$ is significantly improved by future observations, such simple anthropic consideration does not explain the small value of $\u0394N_{\\rm eff}$. We also study simple models where dark radiation consists of relativistic particles produced by heavy scalar decays, and show that the prior probability distribution sensitively depends on the number of the particle species.",
+    "pdf_url": "https://arxiv.org/pdf/1904.12864v3",
+    "published": "2019-04-29"
+  },
+  "1203.0952v1": {
+    "title": "Classical Anthropic Everett model: indeterminacy in a preordained multiverse",
+    "authors": [
+      "Brandon Carter"
+    ],
+    "summary": "Although ultimately motivated by quantum theoretical considerations, Everett's many-world idea remains valid, as an approximation, in the classical limit. However to be applicable it must in any case be applied in conjunction with an appropriate anthropic principle, whose precise formulation involves an anthropic quotient that can be normalised to unity for adult humans but that would be lower for infants and other animals. The outcome is a deterministic multiverse in which the only function of chance is the specification of one's particular identity.",
+    "pdf_url": "https://arxiv.org/pdf/1203.0952v1",
+    "published": "2012-03-05"
+  },
+  "2610.41622v1": {
+    "title": "Lowered crossover points of Anthropic's subexponential 3-SAT algorithm",
+    "authors": [
+      "Ruhollah Majdoddin"
+    ],
+    "summary": "The October 2026 refutations of the Exponential Time Hypothesis count satisfying assignments in time $2^{o(n)}$, but an asymptotic bound does not say from which input size, the crossover point, they beat the best known algorithms. We make the #3-SAT recursion of Anthropic's algorithm explicit and lower its crossover points, computed from the main term of the proved bound, by proved changes. For the bound in the number $m$ of clauses, at clause density one, the crossover point drops to about $2^{420}$ clauses from $2^{33858}$; for general 3-SAT, in the number $n$ of variables, our estimate drops to $2^{8.6\\cdot10^9}$ variables from $2^{2.2\\cdot10^{12}}$. With integer tables the recursion counts, for every $j$, the assignments satisfying exactly $j$ clauses in time $2^{O(m/\\sqrt{\\log m})}$. We observe that this refutes the Sparse Max-3-SAT Hypothesis of Alman and Vassilevska Williams, which also follows from either refutation by the reduction of Impagliazzo, Paturi and Zane, and we lower the crossover point of this computation to about $2^{1016}$ clauses from $2^{68364}$. The distance is structural: we define a rewrite-and-merge class that contains the recursion and all our constructions, and prove that in the main-term model no grid algorithm in it can gain for general 3-SAT below about $2^{6000}$ variables. For two balanced homogeneous merges we prove with quantum functionals an exponent of at least $(\\log_2K)^{-3}$ per edge bit, which excludes running times $2^{n^{1-c}}$. Independently of SAT, we formalise the algorithm as a model of computation, Signed Network Sums, which contains rank-one methods and contraction trees. On the complete graph with four nodes, one-level constructions contract the network in $N^{23/6}$ if $\u03c9=2$ and in about $N^{3.93}$ on the current (preprint) matrix-multiplication curve, below the bound $N^4$ of every rank-one method or contraction tree.",
+    "pdf_url": "https://arxiv.org/pdf/2610.41622v1",
+    "published": "2026-10-30"
+  },
+  "physics/0109072v1": {
+    "title": "Anthropic Fluctuations vs. Weak Anthropic Principle",
+    "authors": [
+      "Milan M. Cirkovic"
+    ],
+    "summary": "  A modern assessment of the classical Boltzmann-Schuetz argument for large-scale entropy fluctuations as the origin of our observable cosmological domain is given. The emphasis is put on the central implication of this picture which flatly contradicts the weak anthropic principle as an epistemological statement about the universe. Therefore, to associate this picture with the anthropic principle as it is usually done is unwarranted. In particular, Feynman's criticism of the anthropic principle based on the entropy-fluctuation picture is a product of this semantic confusion.",
+    "pdf_url": "https://arxiv.org/pdf/physics/0109072v1",
+    "published": "2001-09-28"
+  },
+  "1110.6437v3": {
+    "title": "Anthropic decision theory",
+    "authors": [
+      "Stuart Armstrong"
+    ],
+    "summary": "This paper sets out to resolve how agents ought to act in the Sleeping Beauty problem and various related anthropic (self-locating belief) problems, not through the calculation of anthropic probabilities, but through finding the correct decision to make. It creates an anthropic decision theory (ADT) that decides these problems from a small set of principles. By doing so, it demonstrates that the attitude of agents with regards to each other (selfish or altruistic) changes the decisions they reach, and that it is very important to take this into account. To illustrate ADT, it is then applied to two major anthropic problems and paradoxes, the Presumptuous Philosopher and Doomsday problems, thus resolving some issues about the probability of human extinction.",
+    "pdf_url": "https://arxiv.org/pdf/1110.6437v3",
+    "published": "2011-10-28"
+  }
+}
